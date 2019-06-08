@@ -122,6 +122,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -142,29 +165,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={0}
               data-is-focusable={true}
@@ -289,6 +295,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -309,29 +338,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={1}
               data-is-focusable={true}
@@ -456,6 +468,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -476,29 +511,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={2}
               data-is-focusable={true}
@@ -623,6 +641,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -643,29 +684,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={3}
               data-is-focusable={true}
@@ -790,6 +814,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -810,29 +857,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={4}
               data-is-focusable={true}
@@ -1006,6 +1036,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     outline-offset: 1px;
                   }
@@ -1017,29 +1070,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={0}
               data-is-focusable={true}
@@ -1162,6 +1198,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     outline-offset: 1px;
                   }
@@ -1173,29 +1232,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={1}
               data-is-focusable={true}
@@ -1318,6 +1360,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     outline-offset: 1px;
                   }
@@ -1329,29 +1394,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={2}
               data-is-focusable={true}
@@ -1474,6 +1522,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     outline-offset: 1px;
                   }
@@ -1485,29 +1556,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={3}
               data-is-focusable={true}
@@ -1630,6 +1684,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     outline-offset: 1px;
                   }
@@ -1641,29 +1718,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={4}
               data-is-focusable={true}
@@ -1835,6 +1895,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     outline-offset: 3px;
                   }
@@ -1846,29 +1929,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={0}
               data-is-focusable={true}
@@ -1991,6 +2057,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     outline-offset: 3px;
                   }
@@ -2002,29 +2091,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={1}
               data-is-focusable={true}
@@ -2147,6 +2219,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     outline-offset: 3px;
                   }
@@ -2158,29 +2253,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={2}
               data-is-focusable={true}
@@ -2303,6 +2381,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     outline-offset: 3px;
                   }
@@ -2314,29 +2415,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={3}
               data-is-focusable={true}
@@ -2459,6 +2543,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     outline-offset: 3px;
                   }
@@ -2470,29 +2577,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={4}
               data-is-focusable={true}
@@ -2674,6 +2764,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -2694,29 +2807,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={0}
               data-is-focusable={true}
@@ -2841,6 +2937,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -2861,29 +2980,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={1}
               data-is-focusable={true}
@@ -3008,6 +3110,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -3028,29 +3153,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={2}
               data-is-focusable={true}
@@ -3175,6 +3283,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -3195,29 +3326,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={3}
               data-is-focusable={true}
@@ -3346,6 +3460,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -3366,29 +3503,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={4}
               data-is-focusable={true}
@@ -3513,6 +3633,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -3533,29 +3676,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={5}
               data-is-focusable={true}
@@ -3680,6 +3806,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -3700,29 +3849,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={6}
               data-is-focusable={true}
@@ -3847,6 +3979,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -3867,29 +4022,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={7}
               data-is-focusable={true}
@@ -4018,6 +4156,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -4038,29 +4199,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={8}
               data-is-focusable={true}
@@ -4185,6 +4329,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -4205,29 +4372,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={9}
               data-is-focusable={true}
@@ -4352,6 +4502,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -4372,29 +4545,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={10}
               data-is-focusable={true}
@@ -4519,6 +4675,29 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    color: #0078d4;
+                  }
+                  @media screen and (-ms-high-contrast: active){&:hover {
+                    border-color: Highlight;
+                    color: Highlight;
+                  }
+                  &:hover .ms-Button-icon {
+                    color: #0078d4;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  &:active {
+                    color: #000000;
+                  }
+                  &:active .ms-Button-icon {
+                    color: #004578;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -4539,29 +4718,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    color: #0078d4;
-                  }
-                  @media screen and (-ms-high-contrast: active){&:hover {
-                    border-color: Highlight;
-                    color: Highlight;
-                  }
-                  &:active {
-                    color: #000000;
                   }
               data-index={11}
               data-is-focusable={true}
@@ -4679,17 +4841,17 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                   ms-Button
                   ms-Button--action
                   ms-Button--command
-                  undefined
                   is-disabled
+                  undefined
                   {
                     -moz-osx-font-smoothing: grayscale;
                     -webkit-font-smoothing: antialiased;
-                    background-color: transparent;
+                    background-color: #ffffff;
                     border-radius: 50%;
                     border: none;
                     box-sizing: border-box;
                     color: #a6a6a6;
-                    cursor: default;
+                    cursor: pointer;
                     display: inline-block;
                     font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', sans-serif;
                     font-size: 14px;
@@ -4740,6 +4902,21 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    outline: 0px;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    outline: 0px;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  @media screen and (-ms-high-contrast: active){& {
+                    bordercolor: grayText;
+                    color: grayText;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -4760,27 +4937,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    outline: 0px;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    outline: 0px;
-                  }
-                  @media screen and (-ms-high-contrast: active){& {
-                    bordercolor: grayText;
-                    color: grayText;
                   }
               data-index={0}
               data-is-focusable={false}
@@ -4850,17 +5012,17 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                   ms-Button
                   ms-Button--action
                   ms-Button--command
-                  undefined
                   is-disabled
+                  undefined
                   {
                     -moz-osx-font-smoothing: grayscale;
                     -webkit-font-smoothing: antialiased;
-                    background-color: transparent;
+                    background-color: #ffffff;
                     border-radius: 50%;
                     border: none;
                     box-sizing: border-box;
                     color: #a6a6a6;
-                    cursor: default;
+                    cursor: pointer;
                     display: inline-block;
                     font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', sans-serif;
                     font-size: 14px;
@@ -4911,6 +5073,21 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    outline: 0px;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    outline: 0px;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  @media screen and (-ms-high-contrast: active){& {
+                    bordercolor: grayText;
+                    color: grayText;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -4931,27 +5108,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    outline: 0px;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    outline: 0px;
-                  }
-                  @media screen and (-ms-high-contrast: active){& {
-                    bordercolor: grayText;
-                    color: grayText;
                   }
               data-index={1}
               data-is-focusable={false}
@@ -5021,17 +5183,17 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                   ms-Button
                   ms-Button--action
                   ms-Button--command
-                  undefined
                   is-disabled
+                  undefined
                   {
                     -moz-osx-font-smoothing: grayscale;
                     -webkit-font-smoothing: antialiased;
-                    background-color: transparent;
+                    background-color: #ffffff;
                     border-radius: 50%;
                     border: none;
                     box-sizing: border-box;
                     color: #a6a6a6;
-                    cursor: default;
+                    cursor: pointer;
                     display: inline-block;
                     font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', sans-serif;
                     font-size: 14px;
@@ -5082,6 +5244,21 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    outline: 0px;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    outline: 0px;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  @media screen and (-ms-high-contrast: active){& {
+                    bordercolor: grayText;
+                    color: grayText;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -5102,27 +5279,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    outline: 0px;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    outline: 0px;
-                  }
-                  @media screen and (-ms-high-contrast: active){& {
-                    bordercolor: grayText;
-                    color: grayText;
                   }
               data-index={2}
               data-is-focusable={false}
@@ -5192,17 +5354,17 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                   ms-Button
                   ms-Button--action
                   ms-Button--command
-                  undefined
                   is-disabled
+                  undefined
                   {
                     -moz-osx-font-smoothing: grayscale;
                     -webkit-font-smoothing: antialiased;
-                    background-color: transparent;
+                    background-color: #ffffff;
                     border-radius: 50%;
                     border: none;
                     box-sizing: border-box;
                     color: #a6a6a6;
-                    cursor: default;
+                    cursor: pointer;
                     display: inline-block;
                     font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', sans-serif;
                     font-size: 14px;
@@ -5253,6 +5415,21 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    outline: 0px;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    outline: 0px;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  @media screen and (-ms-high-contrast: active){& {
+                    bordercolor: grayText;
+                    color: grayText;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -5273,27 +5450,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    outline: 0px;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    outline: 0px;
-                  }
-                  @media screen and (-ms-high-contrast: active){& {
-                    bordercolor: grayText;
-                    color: grayText;
                   }
               data-index={3}
               data-is-focusable={false}
@@ -5363,17 +5525,17 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                   ms-Button
                   ms-Button--action
                   ms-Button--command
-                  undefined
                   is-disabled
+                  undefined
                   {
                     -moz-osx-font-smoothing: grayscale;
                     -webkit-font-smoothing: antialiased;
-                    background-color: transparent;
+                    background-color: #eaeaea;
                     border-radius: 50%;
                     border: none;
                     box-sizing: border-box;
                     color: #a6a6a6;
-                    cursor: default;
+                    cursor: pointer;
                     display: inline-block;
                     font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', sans-serif;
                     font-size: 14px;
@@ -5424,6 +5586,21 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     position: relative;
                     top: 0px;
                   }
+                  &:hover {
+                    outline: 0px;
+                  }
+                  &:focus {
+                    border-color: #ffffff;
+                    outline: 0px;
+                    padding-bottom: 0px;
+                    padding-left: 0px;
+                    padding-right: 0px;
+                    padding-top: 0px;
+                  }
+                  @media screen and (-ms-high-contrast: active){& {
+                    bordercolor: grayText;
+                    color: grayText;
+                  }
                   .ms-Fabric--isFocusVisible &:focus::after {
                     border-color: #666666;
                     border-radius: 50%;
@@ -5444,27 +5621,12 @@ exports[`Component Examples renders SwatchColorPicker.Basic.Example.tsx correctl
                     padding-right: 2px;
                     padding-top: 2px;
                   }
-                  &:focus {
-                    border-color: #ffffff;
-                    outline: 0px;
-                    padding-bottom: 0px;
-                    padding-left: 0px;
-                    padding-right: 0px;
-                    padding-top: 0px;
-                  }
                   &:focus:hover {
                     border-color: #eaeaea;
                     padding-bottom: 2px;
                     padding-left: 2px;
                     padding-right: 2px;
                     padding-top: 2px;
-                  }
-                  &:hover {
-                    outline: 0px;
-                  }
-                  @media screen and (-ms-high-contrast: active){& {
-                    bordercolor: grayText;
-                    color: grayText;
                   }
               data-index={4}
               data-is-focusable={false}
